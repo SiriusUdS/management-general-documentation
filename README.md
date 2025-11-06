@@ -1,17 +1,6 @@
-# template
-Template repository. Repository name format: &lt;stm[model]|py|desktop>-&lt;project_name>-&lt;layer>  
+# Management and general documentation
 
-Example:
-- stmf411-engine-hal
-- stm-engine-components
-
-For the README.md file, it should be structured like the following:
-
----
-
-# Project Name
-
-> One-sentence summary describing what your project does or solves.
+Obsidian vault containing management informations + high level documentation about systems.
 
 ---
 
