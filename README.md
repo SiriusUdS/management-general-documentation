@@ -1,89 +1,46 @@
-# Management and general documentation
-
-Obsidian vault containing management informations + high level documentation about systems.
+# CECI EST UN DÉPOT PUBLIQUE ET DONC N'IMPORTE QUI PEUX VOIR LES INFORMATIONS À L'INTÉRIEUR
+# NE PAS METTRE D'INFORMATIONS CONFIDENTELLES DANS CE DÉPÔT !
 
 ---
 
 ## Table of Contents
-- [About](#about)
-- [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [Installation / Build](#installation--build)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
+- [À Propos](#À-Propos)
+- [Prérequis](#Prérequis)
+- [Installation](#Installation)
+- [Utilisation](#Utilisation)
+---
+
+## À Propos
+
+Ceci est le dépôt pour la documentation de groupe technique Sirius utilisant le logiciel gratuit Obsidian.
+Toute la documentation concernant le groupe technique est subdivisée par notes. 
+
+## Prérequis
+
+Prérequis pour faire fonctionner Obsidian :
+- Télécharger Obsidian pour votre platefome ici : [Télécharger Obsidian](https://obsidian.md/download)
+- Télécharger Git (Le manière la plus simple est de télécharger GitHub desktop qui télécharge GIT automatiquement) [Télécharger GitHub Desktop](https://desktop.github.com/download/)
 
 ---
 
-## About
+## Installation
 
-Explain what the project is, what problem it solves, and any relevant context.
+- Cloner le projet dans un dossier local sur votre machine avec GitHub Desktop ou Git CLI
+- Ouvrir le dossier local avec Obsidian
+- Ouvrir les paramètres d'Obsidian en bas à gauche de l'écran
+- Cliquer sur "Turn On Community Plugins" et chercher le plugin Git dans la barre de recherche
+- Installer le plugin Git puis cliquer sur "Enable"
 
-Example:  
-> This project implements the HAL layer of the engine project on the STMF411...
+## Utilisation
 
----
+Obsidian utilise la notation md (Markdown), qui est en fait une version améliorée du format texte standard.
+Ceci permet de faire des listes, de changer la taille de texte ou même de faire des blocs de code.
 
-## Project Structure
-project-root/  
-│  
-├── src/ # Source files  
-├── include/ # Header files  
-├── scripts/ # Utility scripts or build helpers  
-├── config/ # Configuration or calibration files  
-├── docs/ # Documentation and manuals  
-├── tests/ # Unit or integration tests  
-└── README.md  
+Pour plus d'information sur Markdown : [Informations Markdown](https://www.markdownguide.org/basic-syntax/)
 
----
+Le plugin Git rajoute un menu dans la barre lattérale gauche (Open Git Source Control)
+Ceci donne accès au menu Git qui permet en autre de PULL (Télécharger la dernière version du dépôt)
+Ceci permet d'accèder à la version actuelle du dépôt avec les changements des autres utilisateurs.
+Ont peux également COMIT, PUSH et COMIT-AND-SYNC qui permettent d'envoyer la version locale du dépôt Obsidian au autre utilisateurs.
 
-## Requirements
-
-List any hardware, software, or library dependencies needed to build or run the project.
-
-Example:
-
-- **Hardware:** STM32F4 Series, Raspberry Pi 4  
-- **Compiler:** GCC 13+ or ARM-GCC toolchain  
-- **Libraries:**  
-  - HAL Drivers (for STM32)  
-  - WiringPi (for Raspberry Pi)  
-  - CMake ≥ 3.20  
-
----
-
-## Installation / Build
-
-List of steps required to install and build the project.
-
-Example:
-
-- Clone the project
-- Download Visual Studio 2022 from this [Link](#www.duckduckgo.com)
-- Open the sln file with Visual Studio
-- Run the build
-
-## Usage
-
-List of steps required to run and/or debug the project.
-
-Example:
-- Open the project with Visual Studio 2022
-- Press the `start` button
-
-## Configuration
-
-List of configuration files if any
-
-Example:
-- vcpkg.json
-- .clang-tidy
-- .clang-format
-
-## Troubleshooting
-
-QA kind of section with the most common problems and how to fix them
-
-> The application build fails after the installation
-
-Make sure that the vcpkg modules have been downloaded. Check the `use manifest` option in Visual Studio to see if the modules are downloaded automatically or not
+Informations sur Git : [Informations Git](https://docs.github.com/en/get-started/using-git/about-git)
