@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projets.md",
+                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projets"
+              "title": "00 - Table des matières"
             },
             "group": "7dd2da96fb70a871"
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projets.md",
+                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projets"
+              "title": "Backlinks for 00 - Table des matières"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projets.md",
+                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Projets"
+              "title": "Outgoing links from 00 - Table des matières"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projets.md",
+                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projets"
+              "title": "Outline of 00 - Table des matières"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "active": "a194d1fca50e2ab3",
   "lastOpenFiles": [
+    "x.md",
     "Untitled",
     "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
     "01 - Véhicule de lancement (Fusée).md",
@@ -227,7 +228,6 @@
     "README.md",
     "notebook/Bienvenu.md",
     "notebook/99 - Divers/Position Help button.png",
-    "Projets.md",
     "Excalidraw",
     "Électrique.md"
   ]
