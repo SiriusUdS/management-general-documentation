@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
+                "file": "2025-11-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Table des matières"
+              "title": "2025-11-20"
             },
             "group": "7dd2da96fb70a871"
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
+                "file": "2025-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00 - Table des matières"
+              "title": "Backlinks for 2025-11-20"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
+                "file": "2025-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00 - Table des matières"
+              "title": "Outgoing links from 2025-11-20"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
+                "file": "2025-11-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 - Table des matières"
+              "title": "Outline of 2025-11-20"
             }
           },
           {
@@ -219,8 +219,9 @@
   },
   "active": "06bd577af5a5f029",
   "lastOpenFiles": [
-    "01 - Véhicule de lancement (Fusée).md",
+    "Untitled",
     "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
+    "01 - Véhicule de lancement (Fusée).md",
     "Ingénierie des systèmes.md",
     "Excalidraw/Drawing 2025-11-20 21.52.56.excalidraw.md",
     "README.md",
