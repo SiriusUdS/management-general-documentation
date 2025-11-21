@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
+                "file": "01 - notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "mode": "source",
                 "source": false
               },
@@ -217,24 +217,24 @@
   "active": "06bd577af5a5f029",
   "lastOpenFiles": [
     "03 - Ressources",
-    "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
-    "Projets/Systems Engineering",
-    "Projets/Payload",
-    "Projets/Fin Can",
-    "Projets/Launch Rail",
-    "Projets/Ground Control Station",
-    "Projets/Data Acquisition",
-    "Projets/Recovery",
-    "Projets/Fill station",
-    "Projets/Fill Control Unit",
-    "Projets/Nosecone",
+    "01 - notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
+    "02 - Projets/Systems Engineering",
+    "02 - Projets/Payload",
+    "02 - Projets/Fin Can",
+    "02 - Projets/Launch Rail",
+    "02 - Projets/Ground Control Station",
+    "02 - Projets/Data Acquisition",
+    "02 - Projets/Recovery",
+    "02 - Projets/Fill station",
+    "02 - Projets/Fill Control Unit",
+    "02 - Projets/Nosecone",
     "x.md",
     "01 - Véhicule de lancement (Fusée).md",
     "Ingénierie des systèmes.md",
-    "Projets/Systems Engineering/Drawing 2025-11-20 21.52.56.excalidraw.md",
+    "02 - Projets/Systems Engineering/Drawing 2025-11-20 21.52.56.excalidraw.md",
     "README.md",
-    "notebook/Bienvenu.md",
-    "notebook/99 - Divers/Position Help button.png",
+    "01 - notebook/Bienvenu.md",
+    "01 - notebook/99 - Divers/Position Help button.png",
     "Électrique.md"
   ]
 }
