@@ -12,14 +12,12 @@
             "id": "a194d1fca50e2ab3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01 - notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
-                "mode": "source",
-                "source": false
+                "file": "02 - Projets/Systems Engineering/Drawing 2025-11-20 21.52.56.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "00 - Table des matières"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-20 21.52.56.excalidraw"
             },
             "group": "7dd2da96fb70a871"
           }
@@ -34,10 +32,12 @@
             "id": "4acd3797e00c3db3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "02 - Projets/Systems Engineering/Drawing 2025-11-20 21.52.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-20 21.52.56.excalidraw"
             },
             "group": "7dd2da96fb70a871"
           }
@@ -214,7 +214,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06bd577af5a5f029",
+  "active": "a194d1fca50e2ab3",
   "lastOpenFiles": [
     "03 - Ressources",
     "01 - notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
