@@ -6,7 +6,6 @@
       {
         "id": "525cc83acd7030b2",
         "type": "tabs",
-        "dimension": 70.88688946015424,
         "children": [
           {
             "id": "a194d1fca50e2ab3",
@@ -14,32 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "02 - Projets/Systems Engineering/Drawing 2025-11-20 21.52.56.excalidraw.md"
+                "file": "02 - Projets/Systems Engineering/Team Organization.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-20 21.52.56.excalidraw"
-            },
-            "group": "7dd2da96fb70a871"
-          }
-        ]
-      },
-      {
-        "id": "587a33ae7d580839",
-        "type": "tabs",
-        "dimension": 29.113110539845756,
-        "children": [
-          {
-            "id": "4acd3797e00c3db3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "02 - Projets/Systems Engineering/Drawing 2025-11-20 21.52.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-20 21.52.56.excalidraw"
-            },
-            "group": "7dd2da96fb70a871"
+              "title": "Team Organization"
+            }
           }
         ]
       }
@@ -231,7 +209,7 @@
     "x.md",
     "01 - Véhicule de lancement (Fusée).md",
     "Ingénierie des systèmes.md",
-    "02 - Projets/Systems Engineering/Drawing 2025-11-20 21.52.56.excalidraw.md",
+    "02 - Projets/Systems Engineering/Team Organization.md",
     "README.md",
     "01 - notebook/Bienvenu.md",
     "01 - notebook/99 - Divers/Position Help button.png",
