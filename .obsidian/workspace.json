@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 00 - Table des matières"
             }
           },
           {
@@ -132,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 00 - Table des matières"
             }
           },
           {
@@ -174,12 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 00 - Table des matières"
             }
           },
           {
@@ -217,6 +220,8 @@
   "active": "06bd577af5a5f029",
   "lastOpenFiles": [
     "Projets/Untitled",
+    "Projets/Launch Rail",
+    "Projets/Ground Control Station",
     "Projets/Data Acquisition",
     "Projets/Recovery",
     "Projets/Fill station",
@@ -225,8 +230,6 @@
     "Projets/Engine Control Unit",
     "Projets/Tank",
     "Projets/Apport",
-    "Projets/Injecteurs",
-    "Projets/Chambre de combustion",
     "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
     "x.md",
     "01 - Véhicule de lancement (Fusée).md",
