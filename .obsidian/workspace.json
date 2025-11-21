@@ -114,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00 - Table des matières"
+              "title": "Backlinks"
             }
           },
           {
@@ -133,12 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00 - Table des matières"
+              "title": "Outgoing links"
             }
           },
           {
@@ -176,13 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 - Table des matières"
+              "title": "Outline"
             }
           },
           {
@@ -217,11 +214,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a194d1fca50e2ab3",
+  "active": "4acd3797e00c3db3",
   "lastOpenFiles": [
+    "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
+    "Untitled/Untitled.base",
     "x.md",
     "Untitled",
-    "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
     "01 - Véhicule de lancement (Fusée).md",
     "Ingénierie des systèmes.md",
     "Excalidraw/Drawing 2025-11-20 21.52.56.excalidraw.md",
