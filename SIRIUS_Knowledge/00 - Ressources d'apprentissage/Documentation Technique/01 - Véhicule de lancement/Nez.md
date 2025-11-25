@@ -1,0 +1,3 @@
+Le nez d'une fusée (Nosecone en anglais) est la section débutant le [[Fuselage]]. Il permet de briser l'air efficacement en créant le moins de frottement aérodynamique possible. Ce frottement génère de la chaleur, qui devient significative à des [[Vitesses supersoniques]].
+
+Pour en apprendre plus sur les formes possibles de nez et leurs avantages, allez visiter la page Wikipedia: https://en.wikipedia.org/wiki/Nose_cone_design.

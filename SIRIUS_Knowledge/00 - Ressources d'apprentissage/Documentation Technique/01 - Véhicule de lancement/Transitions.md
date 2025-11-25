@@ -1,0 +1,1 @@
+Les transitions permettent d'adapter des [[Fuselage]]s de diamètres différents. Tout comme le [[Nez]], ces sections ont un impact plus grand sur l'aérodynamisme du véhicule que des sections de tube cylindrique. Quand une transition est à l'arrière d'une fusée, le terme "Boat tail" est utilisé. 
