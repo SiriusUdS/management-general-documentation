@@ -11,10 +11,14 @@
             "id": "2756fd94d83dc9ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - Ressources d'apprentissage/00 - Table des matières.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00 - Table des matières"
             }
           }
         ]
@@ -162,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,25 +183,25 @@
   },
   "active": "2756fd94d83dc9ec",
   "lastOpenFiles": [
+    "00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol",
+    "00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement",
+    "00 - Ressources d'apprentissage/Documentation Technique",
+    "00 - Ressources d'apprentissage/Documentation Académique/Électrique",
+    "00 - Ressources d'apprentissage/Documentation Académique/Mécanique",
+    "00 - Ressources d'apprentissage/Documentation Académique/Informatique",
+    "00 - Ressources d'apprentissage/Documentation Académique",
     "99 - Divers/Position Help button.png",
+    "Bienvenu.md",
     "2025-11-09.md",
     "00 - Ressources d'apprentissage/00 - Table des matières.md",
-    "Bienvenu.md",
     "Fuselage.md",
     "Propulsion Hybride.md",
     "Untitled/desktop.ini",
     "99 - Divers",
-    "00 - Ressources d'apprentissage/Documentation Académique/Informatique",
-    "00 - Ressources d'apprentissage/Documentation Académique/Électrique",
-    "00 - Ressources d'apprentissage/Documentation Académique/Mécanique",
-    "00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol",
-    "00 - Ressources d'apprentissage/Documentation Académique",
-    "00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement",
     "Ressources d'apprentissage/Véhicule de lancement (Fusée).md",
     "Ressources d'apprentissage/Mécanique.md",
     "Ressources d'apprentissage/Informatique.md",
     "Ressources d'apprentissage/01 - Véhicule de lancement/01 - Fuselage.md",
-    "00 - Ressources d'apprentissage/Documentation Technique",
     "00 - Ressources d'apprentissage",
     "Pasted image 20251103234232.png"
   ]
