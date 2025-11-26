@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1bf70e8469d570e4",
+        "id": "206b917f04f2e6d2",
         "type": "tabs",
         "children": [
           {
-            "id": "d01ab04e22631963",
+            "id": "0c914c637df641a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bloc Notes CAN.md",
+                "file": "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Bloc Notes CAN.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,21 +191,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5de0be90005659d2",
+  "active": "0c914c637df641a5",
   "lastOpenFiles": [
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Transitions.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Nez.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Fuselage.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Nez.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Transitions.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Communication CAN.md",
+    "Informatique.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/00 - Table des matières.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Bloc Notes CAN.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement",
     "SIRIUS_Knowledge/99 - Divers/Position Help button.png",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/00 - Table des matières.md",
     "SIRIUS_Knowledge/Bienvenu.md",
     "SIRIUS_Knowledge/99 - Divers",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage",
     "SIRIUS_Knowledge",
-    "Communication CAN.md",
-    "Bloc Notes CAN.md",
     "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
     "notebook/99 - Divers/Position Help button.png",
     "README.md"
