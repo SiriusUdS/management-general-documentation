@@ -1,33 +1,14 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "8b4a3bfe2c982e58",
+    "id": "24a1d34ee35ee5b8",
     "type": "split",
     "children": [
       {
-        "id": "525cc83acd7030b2",
+        "id": "55699bf68639060f",
         "type": "tabs",
         "children": [
           {
-            "id": "a194d1fca50e2ab3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "02 - Projets/Systems Engineering/Team Organization.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Team Organization"
-=======
-    "id": "f4c6131a42fe5dbe",
-    "type": "split",
-    "children": [
-      {
-        "id": "206b917f04f2e6d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c914c637df641a5",
+            "id": "9a642f6a69a1fe2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Bloc Notes CAN"
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
             }
           }
         ]
@@ -47,48 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "48ad23a069d1e9ab",
+    "id": "aca074a259ea5fba",
     "type": "split",
     "children": [
       {
-        "id": "9935aa569131a98c",
+        "id": "44200c1676dafb70",
         "type": "tabs",
         "children": [
           {
-            "id": "06bd577af5a5f029",
-=======
-    "id": "d5e86e0a2b2792d6",
-    "type": "split",
-    "children": [
-      {
-        "id": "c21a094cdd242afa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7670e4cdd9cfbe81",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
+            "id": "9b560d028540d36a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-<<<<<<< HEAD
-                "autoReveal": true
-=======
                 "autoReveal": false
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "ba80d69bbc84876d",
-=======
-            "id": "007ab50965d628b6",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
+            "id": "cab18d2dfa15e24f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -105,11 +65,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "3bd2600570af68ad",
-=======
-            "id": "4b6748c0b178575d",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
+            "id": "5a6f7746042d54b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -125,31 +81,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "fbc1743ca7d9929d",
+    "id": "27fb5a5ce61ae948",
     "type": "split",
     "children": [
       {
-        "id": "67e45f976d279e6d",
+        "id": "65a07f0a9ed274db",
         "type": "tabs",
         "children": [
           {
-            "id": "0e9394ed0b789965",
-=======
-    "id": "48dfb428c219ca05",
-    "type": "split",
-    "children": [
-      {
-        "id": "79eee1f9c3a4f738",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d180a80d605ea9e7",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
+            "id": "42713435c69cc0e9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Bloc Notes CAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,32 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Bloc Notes CAN"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "a69c23b1cdd94ec8",
-=======
-            "id": "20d649abe44f0e3d",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
+            "id": "946db187b5bd1bf7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Bloc Notes CAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Bloc Notes CAN"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "bfb844694d64eba8",
-=======
-            "id": "7153ecf9f97d1a60",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
+            "id": "30d536b7d0ba0917",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -199,11 +137,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "adf80e644a07e5c9",
-=======
-            "id": "b8968bdc2e7b66bd",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
+            "id": "32d07278a5b8d051",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -217,48 +151,26 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "b9f1ee32b21a3afb",
-=======
-            "id": "3d1d1efe7c16797b",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
+            "id": "1850522c1c0a4a73",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Bloc Notes CAN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "268ed9722cebc26a",
-=======
-            "id": "5de0be90005659d2",
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Bloc Notes CAN"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 300,
     "collapsed": true
-=======
-    "width": 300
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,57 +180,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-<<<<<<< HEAD
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "bases:Create new base": false
     }
   },
-  "active": "a194d1fca50e2ab3",
-  "lastOpenFiles": [
-    "02 - Projets/Systems Engineering/Team Organization.md",
-    "03 - Ressources",
-    "01 - notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
-    "02 - Projets/Systems Engineering",
-    "02 - Projets/Payload",
-    "02 - Projets/Fin Can",
-    "02 - Projets/Launch Rail",
-    "02 - Projets/Ground Control Station",
-    "02 - Projets/Data Acquisition",
-    "02 - Projets/Recovery",
-    "02 - Projets/Fill station",
-    "02 - Projets/Fill Control Unit",
-    "x.md",
-    "01 - Véhicule de lancement (Fusée).md",
-    "Ingénierie des systèmes.md",
-    "README.md",
-    "01 - notebook/Bienvenu.md",
-    "01 - notebook/99 - Divers/Position Help button.png",
-    "Électrique.md"
-=======
-      "obsidian-git:Open Git source control": false
-    }
-  },
-  "active": "0c914c637df641a5",
-  "lastOpenFiles": [
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Fuselage.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Nez.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Transitions.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Communication CAN.md",
-    "Informatique.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/00 - Table des matières.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Bloc Notes CAN.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement",
-    "SIRIUS_Knowledge/99 - Divers/Position Help button.png",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique",
-    "SIRIUS_Knowledge/Bienvenu.md",
-    "SIRIUS_Knowledge/99 - Divers",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage",
-    "SIRIUS_Knowledge",
-    "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
-    "notebook/99 - Divers/Position Help button.png",
-    "README.md"
->>>>>>> 64f4483e792b99b6ecfe0af8f7371851c497d722
-  ]
+  "active": "9a642f6a69a1fe2e",
+  "lastOpenFiles": []
 }
