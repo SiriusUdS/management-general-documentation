@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ailettes.md",
+                "file": "Table des matières/00 - Ressources d'apprentissage/00 - Table des matières.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ailettes"
+              "title": "00 - Table des matières"
             }
           }
         ]
@@ -191,9 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c914c637df641a5",
+  "active": "7670e4cdd9cfbe81",
   "lastOpenFiles": [
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Électrique",
+    "Harnais de récupération.md",
     "Table des matières/00 - Ressources d'apprentissage/00 - Table des matières.md",
+    "Parachutes.md",
+    "Séparation.md",
+    "Configuration de récupération.md",
+    "Récupération.md",
+    "Table des matières/Bienvenu.md",
     "Ailettes.md",
     "02 - Projets/Systems Engineering/Team Organization.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique/CAN/Identifier CAN.md",
@@ -203,7 +210,6 @@
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Transitions.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Nez.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Fuselage.md",
-    "Table des matières/Bienvenu.md",
     "Table des matières/99 - Divers/Position Help button.png",
     "01 - Véhicule de lancement (Fusée).md",
     "Électrique.md",
@@ -225,8 +231,6 @@
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement",
     "SIRIUS_Knowledge/99 - Divers/Position Help button.png",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique",
-    "SIRIUS_Knowledge/Bienvenu.md",
-    "notebook/00 - Ressources d'apprentissage/00 - Table des matières.md",
     "notebook/99 - Divers/Position Help button.png"
   ]
 }
