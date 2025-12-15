@@ -10,5 +10,5 @@ Créer des lien: Mettre le mot-clé entre double crochets:
 ```
 
 Plus d'info: 
-![[Position Help button.png]]
+![[SIRIUS_Knowledge/99 - Divers/Position Help button.png]]
 Cliquez sur la bulle d'aide à côté du nom du vault et allez voir le Sandbox Vault.
