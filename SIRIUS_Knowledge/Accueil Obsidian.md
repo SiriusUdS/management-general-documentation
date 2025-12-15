@@ -8,4 +8,9 @@ Voici la structure de base de la vault Obsidian de Sirius :
   - Mécanique
   - Propulsion
 - Équipement au sol (GSE)
+  - Électrique
+  - Informatique
+  - Ingénierie des systèmes
+  - Mécanique
 - Projet
+  - Systems Engineering

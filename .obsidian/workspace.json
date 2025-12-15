@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIRIUS_Knowledge/Documentation du groupe/01 - Véhicule de lancement/Mécanique/Mécanique.md",
+                "file": "SIRIUS_Knowledge/Accueil Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mécanique"
+              "title": "Accueil Obsidian"
             }
           }
         ]
@@ -192,10 +192,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7670e4cdd9cfbe81",
+  "active": "0c914c637df641a5",
   "lastOpenFiles": [
-    "SIRIUS_Knowledge/Table des matières.md",
     "SIRIUS_Knowledge/Documentation du groupe/01 - Véhicule de lancement/Mécanique/Mécanique.md",
+    "SIRIUS_Knowledge/Table des matières.md",
     "SIRIUS_Knowledge/Accueil Obsidian.md",
     "SIRIUS_Knowledge/Documentation du groupe/02 - Projet/Systems Engineering/Team Organization.md",
     "SIRIUS_Knowledge/Documentation du groupe/01 - Véhicule de lancement/Informatique/Informatique.md",
