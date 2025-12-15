@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table des matières/00 - Ressources d'apprentissage/00 - Table des matières.md",
+                "file": "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Table des matières.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Table des matières"
+              "title": "Table des matières"
             }
           }
         ]
@@ -193,24 +193,26 @@
   },
   "active": "7670e4cdd9cfbe81",
   "lastOpenFiles": [
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Électrique",
-    "Harnais de récupération.md",
+    "Table des matières/Bienvenu.md",
+    "Table des matières/99 - Divers/Position Help button.png",
     "Table des matières/00 - Ressources d'apprentissage/00 - Table des matières.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Table des matières.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Mécanique",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Électrique",
+    "Harnais de récupération.md",
     "Parachutes.md",
     "Séparation.md",
     "Configuration de récupération.md",
     "Récupération.md",
-    "Table des matières/Bienvenu.md",
     "Ailettes.md",
     "02 - Projets/Systems Engineering/Team Organization.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique/CAN/Identifier CAN.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique/CAN/Bloc Notes de Recherche CAN.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique/CAN/Table des matières CAN BUS.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique/Table des Matières Informatique.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Transitions.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Nez.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Fuselage.md",
-    "Table des matières/99 - Divers/Position Help button.png",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/CAN/Identifier CAN.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/CAN/Bloc Notes de Recherche CAN.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/CAN/Table des matières CAN BUS.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/Table des Matières Informatique.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Mécanique/Transitions.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Mécanique/Nez.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Mécanique/Fuselage.md",
     "01 - Véhicule de lancement (Fusée).md",
     "Électrique.md",
     "Ingénierie des systèmes.md",
@@ -221,16 +223,13 @@
     "Table des matières/99 - Divers",
     "Table des matières/00 - Ressources d'apprentissage",
     "Table des matières",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/00 - Table des matières.md",
     "02 - Équipement au sol (GSE).md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique/Avionique",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique/CAN",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/Avionique",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/CAN",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique/Communication CAN.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/Informatique",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique",
     "Informatique.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement",
     "SIRIUS_Knowledge/99 - Divers/Position Help button.png",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique",
     "notebook/99 - Divers/Position Help button.png"
   ]
 }
