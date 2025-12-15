@@ -1,2 +1,0 @@
-# [[Bloc Notes CAN]]
-

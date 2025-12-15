@@ -45,3 +45,5 @@ Priorité :
 | 48-63    | 0x30 - 0x3F    | Background         | Peut attendre indéfiniment (Logs & debug)                                                                                                             |
 Cas spéciaux :
 Priorité 0x00 (Critique) + Sujet 0x0000 (+ important) = Option nucléaire (shutdown total du système)
+
+3 STM32H7 1 acquissions, Moteur, Fill Station 
