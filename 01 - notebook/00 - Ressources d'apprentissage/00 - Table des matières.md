@@ -1,4 +1,4 @@
-Toutes les infomations reliées aux activités de SIRIUS seront ici et sera liés aux documents du teams.
+Toutes les informations reliées aux activités de SIRIUS seront ici et sera liés aux documents du teams.
 
 # [[01 - Véhicule de lancement (Fusée)]]
 
