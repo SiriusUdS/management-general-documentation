@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Mécanique/Fabrication.md",
+                "file": "SIRIUS_Knowledge/Table des matières.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fabrication"
+              "title": "Table des matières"
             }
           }
         ]
@@ -191,9 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7670e4cdd9cfbe81",
+  "active": "0c914c637df641a5",
   "lastOpenFiles": [
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Table des matières.md",
+    "Structure interne.md",
+    "README.md",
+    "SIRIUS_Knowledge/Table des matières.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Informatique",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Électrique",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Mécanique/Fabrication.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Mécanique/Composite.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Mécanique/Analyse.md",
@@ -204,7 +208,6 @@
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE).md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/Avionique/Charge utile.md",
-    "Structure interne.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/Avionique/Caméra.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/Avionique/Avionique.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Propulsion/Réservoir.md",
@@ -222,15 +225,12 @@
     "Informatique.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Propulsion/Propulsion.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Propulsion",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Mécanique/Récupération.md",
     "SIRIUS_Knowledge/99 - Divers/Position Help button.png",
     "Table des matières/99 - Divers/Position Help button.png",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Mécanique",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Électrique",
     "02 - Projets/Systems Engineering",
     "02 - Projets",
-    "Table des matières/99 - Divers",
-    "Table des matières/00 - Ressources d'apprentissage",
     "notebook/99 - Divers/Position Help button.png"
   ]
 }
