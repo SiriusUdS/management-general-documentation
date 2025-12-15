@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIRIUS_Knowledge/Table des matières.md",
+                "file": "SIRIUS_Knowledge/Structure Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table des matières"
+              "title": "Structure Obsidian"
             }
           }
         ]
@@ -193,9 +193,11 @@
   },
   "active": "0c914c637df641a5",
   "lastOpenFiles": [
-    "Structure interne.md",
-    "README.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/Informatique.md",
+    "SIRIUS_Knowledge/Structure Obsidian.md",
     "SIRIUS_Knowledge/Table des matières.md",
+    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/Avionique/Structure interne.md",
+    "README.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Informatique",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Électrique",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/02 - Équipement au sol (GSE)/Mécanique/Fabrication.md",
@@ -221,9 +223,7 @@
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Propulsion/Propulsion hybride.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Propulsion/Propulsion solide.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/CAN/Table des matières CAN BUS.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Informatique/Informatique.md",
     "Informatique.md",
-    "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Propulsion/Propulsion.md",
     "SIRIUS_Knowledge/00 - Ressources d'apprentissage/Documentation Technique/01 - Véhicule de lancement/Propulsion",
     "SIRIUS_Knowledge/99 - Divers/Position Help button.png",
     "Table des matières/99 - Divers/Position Help button.png",
