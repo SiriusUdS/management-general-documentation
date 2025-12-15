@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIRIUS_Knowledge/Structure Obsidian.md",
+                "file": "SIRIUS_Knowledge/Accueil Obsaidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structure Obsidian"
+              "title": "Accueil Obsaidian"
             }
           }
         ]
@@ -191,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7670e4cdd9cfbe81",
+  "active": "0c914c637df641a5",
   "lastOpenFiles": [
     "SIRIUS_Knowledge/Documentation du groupe/02 - Projets/Systems Engineering/Team Organization.md",
-    "SIRIUS_Knowledge/Structure Obsidian.md",
+    "SIRIUS_Knowledge/Accueil Obsaidian.md",
     "SIRIUS_Knowledge/Table des matières.md",
     "SIRIUS_Knowledge/Documentation du groupe/01 - Véhicule de lancement/Informatique/Informatique.md",
     "SIRIUS_Knowledge/Documentation du groupe/01 - Véhicule de lancement/Informatique/Avionique/Structure interne.md",
