@@ -1,6 +1,7 @@
-## Règles de base 
+# Règles de base 
 
-### Langue à utiliser : Français si possible sinon l'anglais
+### Langue à utiliser : Français si possible sinon l'anglais.
+### Conduite : Toujours avoir une étique 
 ## Voici la structure de base de la vault Obsidian de Sirius :
 
 # Sirius_Knowledge (root)
