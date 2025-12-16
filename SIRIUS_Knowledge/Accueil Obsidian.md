@@ -35,6 +35,8 @@
 #### Sécurité
 
 - **Pas de Mots de Passe :** N'écrivez jamais de mots de passe, de clés API ou de données sensibles en clair dans la Vault, même si c'est "juste pour partager". Utilisez un gestionnaire de mots de passe sécurisé pour cela.
+
+
 ## Voici la structure de base de la vault Obsidian de Sirius :
 ## Sirius_Knowledge (root)
 ## Documentation du groupe
@@ -59,3 +61,4 @@
 - Projet
   - Systems Engineering
     - Sujets
+(cette structure est sujet à changements)
