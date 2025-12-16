@@ -1,3 +1,4 @@
+## Règles de base  
 Voici la structure de base de la vault Obsidian de Sirius :
 
 # Sirius_Knowledge (root)
@@ -15,8 +16,11 @@ Voici la structure de base de la vault Obsidian de Sirius :
   - Électrique
     - Sujets
   - Informatique
+    - Sujets
   - Ingénierie des systèmes
+    - Sujets
   - Mécanique
+    - Sujets
 - Projet
   - Systems Engineering
     - Sujets
