@@ -34,7 +34,7 @@
 - **Signer les Décisions Majeures :** Pour les choix critiques (ex: changement de matériau), il est bon d'indiquer l'auteur de la note et la date, pour savoir qui contacter si on a des questions plus tard.
 #### Sécurité
 
-- **Pas de Mots de Passe :** N'écrivez jamais de mots de passe, de clés API ou de données sensibles en clair dans la Vault, même si c'est "juste pour partager". Utilisez un gestionnaire de mots de passe sécurisé pour cela.
+- **Pas de Mots de Passe :** N'écrivez jamais de mots de passe, de clés API ou de données sensibles en clair dans la Vault, même si c'est "juste pour partager".
 
 
 ## Voici la structure de base de la vault Obsidian de Sirius :
