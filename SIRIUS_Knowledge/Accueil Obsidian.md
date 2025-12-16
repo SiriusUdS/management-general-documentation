@@ -4,7 +4,7 @@
 ### Conduite : Toujours avoir une étique 
 ## Voici la structure de base de la vault Obsidian de Sirius :
 
-# Sirius_Knowledge (root)
+## Sirius_Knowledge (root)
 ## Documentation du groupe
 - Véhicule de lancement
   - Électrique
