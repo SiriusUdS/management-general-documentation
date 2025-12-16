@@ -1,5 +1,7 @@
-## Règles de base  
-Voici la structure de base de la vault Obsidian de Sirius :
+## Règles de base 
+
+### Langue à utiliser : Français si possible sinon l'anglais
+## Voici la structure de base de la vault Obsidian de Sirius :
 
 # Sirius_Knowledge (root)
 ## Documentation du groupe
